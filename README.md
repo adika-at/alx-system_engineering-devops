@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-another shell assighnmenr
+these are shell redirection examples
